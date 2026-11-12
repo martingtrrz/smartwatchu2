@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "SpendPulse - Smartwatch & Mobile",
+    "slug": "spendpulse",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "dark",
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
+

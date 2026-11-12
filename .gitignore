@@ -1,0 +1,4 @@
+#archivos para ignorar en git
+node_modules/
+dist/
+.expo/
